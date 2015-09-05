@@ -156,6 +156,7 @@
 		8B34C4261B9A871F00CD5801 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Digital Tutors";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				8B34C44F1B9A871F00CD5801 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8B34C4501B9A871F00CD5801 /* Build configuration list for PBXNativeTarget "TutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				8B34C4521B9A871F00CD5801 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
